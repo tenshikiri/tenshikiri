@@ -6,7 +6,7 @@ P.E.T.A.L. Developer
 
 * 🌍  I'm based in Chios - Greece
 * ✉️  You can contact me at [dimitrisxilas@gmail.com](mailto:dimitrisxilas@gmail.com)
-* 🚀  I'm currently working on [ASCE](https://asce.gr)
+* 🚀  I'm currently working for [ASCE](https://asce.gr)
 * 🧠  I'm currently learning React
 
 ### Skills
