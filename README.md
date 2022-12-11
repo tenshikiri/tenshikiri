@@ -6,8 +6,7 @@ P.E.T.A.L. Developer
 
 * 🌍  I'm based in Chios - Greece
 * ✉️  You can contact me at [dimitrisxilas@gmail.com](mailto:dimitrisxilas@gmail.com)
-* 🚀  I'm currently working for [ASCE](https://asce.gr)
-* 🧠  I'm currently learning React
+* 🚀  I'm currently working for [Contractuali](https://www.linkedin.com/company/contractuali-gmbh/)
 
 ### Skills
 
@@ -38,7 +37,6 @@ P.E.T.A.L. Developer
 
 <a href="http://www.github.com/tenshikiri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tenshikiri&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/tenshikiri"><img src="https://activity-graph.herokuapp.com/graph?username=tenshikiri&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
